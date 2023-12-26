@@ -8,7 +8,7 @@ SeniorSphere is a revolutionary web-based platform dedicated to enhancing the li
 ## Home Page
 
 
-![Screenshot (2884)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/62f13fc8-47b1-46f8-ba4a-445ef22f5b8c)
+![Screenshot (2886)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/abd95b3b-ce7d-480a-9621-a69d71470361)
 
 
 Welcome to SeniorSphere, a vibrant online community where seniors can connect, engage, and thrive. Our platform fosters a sense of belonging and encourages active lifestyles, empowering seniors to live healthier, happier, and more connected lives.
@@ -23,7 +23,7 @@ Local Connections at Your Fingertips: Discover seniors in your neighborhood who 
 ### Thriving Community Hub
 Engage in lively discussions, plan events, and form clubs around shared passions. Build a strong network of support and camaraderie within your locality.
 
-#### Supporting Isolated and New Seniors
+### Supporting Isolated and New Seniors
 Especially beneficial for seniors living alone or those who are new to an area without established connections, SeniorSphere ensures no senior feels isolated. It serves as a vital link, offering invaluable connections and a platform to build meaningful relationships within the local senior community.
 
 ### Nature and Wellness Initiatives
@@ -41,13 +41,15 @@ With a focus on promoting an active and engaged lifestyle, SeniorSphere encourag
 
 # Experience the Design:
 
+
 ## Home Page 
 
 
-![Screenshot (2884)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/62f13fc8-47b1-46f8-ba4a-445ef22f5b8c)
+![Screenshot (2887)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/5be10bec-f522-4919-beeb-7e8141fcac1f)
 
 
 A warm and inviting space showcasing upcoming events local groups, and inspiring stories from community members.
+
 
 ## Login/Signup
 
@@ -61,7 +63,7 @@ A warm and inviting space showcasing upcoming events local groups, and inspiring
 ## Activity Memories Collection 
 
 
-![Screenshot (2869)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/d9a7aea3-284e-4923-a0f3-824d9e20de2d)
+![Screenshot (2888)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/58977a6e-6284-490a-85bb-8b650110e4eb)
 
 
 ## Registration/Booking of an event
@@ -109,4 +111,4 @@ Engage in real-time conversations with fellow seniors around shared interests
 Discuss topics that matter to you exchange ideas, and seek advice. Discover local events fitness camps, nature initiatives, and social gatherings.
 
 
-SeniorSphere is a revolutionary web platform dedicated to enhancing the lives of seniors by fostering community, health, and shared interests. Seamlessly connecting local seniors based on their common interests and needs, this innovative website serves as a hub for vibrant group chats, forums, and engaging virtual events. By facilitating discussions on upcoming local activities, including fitness camps and nature-saving initiatives, SeniorSphere empowers seniors to create their own supportive communities. Whether for those living alone or newcomers to an area, this platform provides invaluable connections, ensuring no senior feels isolated. Join SeniorSphere to build meaningful connections, share experiences, and create a thriving community for seniors in your locality."
+SeniorSphere is a revolutionary web platform dedicated to enhancing the lives of seniors by fostering community, health, and shared interests. Seamlessly connecting local seniors based on their common interests and needs, this innovative website serves as a hub for vibrant group chats, forums, and engaging virtual events. By facilitating discussions on upcoming local activities, including fitness camps and nature-saving initiatives, SeniorSphere empowers seniors to create their own supportive communities. Whether for those living alone or newcomers to an area, this platform provides invaluable connections, ensuring no senior feels isolated. Joining SeniorSphere helps to build meaningful connections, share experiences, and create a thriving community for seniors in a locality.
