@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+  <style>
+    h2::first-letter {
+      font-size: 100px;
+      color: rgb(216, 70, 34);
+      display: flex;
+      padding-top: 100px;
+    }
+
+    .bg {
+      height: 100%; 
+      width: 100%;
+    }
+    .img {
+      
+      display: grid;
+      grid-template-columns: auto auto auto;
+      grid-template-rows: 20rem 20rem 20rem;
+
+    }
+    
+    h2 {
+      font-size: 55px;
+      color: #6a4646;
+      margin: -5px;
+    }
+    .item{
+        
+        padding: 32px;
+        /* height: 100px;
+        width: 100px; */
+        margin: 16px;
+        grid-template-columns: auto auto auto;
+        grid-template-rows:  2rem 2rem 3rem;
+    }
+      
+    .item img {
+            width: 100%;
+            transition: 0.5s all ease-in-out;
+        }
+     
+        
+
+    @keyframes glitch1 {
+      0% {
+        transform: none;
+        opacity: 1;
+      }
+
+      50% {
+        transform: skew(-2deg, 0.6deg);
+        opacity: 0.75;
+      }
+
+      100% {
+        transform: none;
+        opacity: 1;
+      }
+    }
+  </style>
+
+  <body>
+    <div
+      class="bg"
+      style="
+        background-image: url('k3.jpg');
+        background-size: cover;
+        height: 100%;
+        text-align: start;
+      "
+    >
+      <h2>Gallary</h2>
+      <div class="img">
+
+        <div class="item" id="item1"><img
+            src="k4.webp"
+            alt=""
+           
+          /></div>
+        <div class="item" id="item2"><img
+            src="k5.webp"
+            alt=""
+          /></div>
+        <div class="item" id="item3">  <img
+            src="k6.webp"
+            alt=""
+          /></div>
+        <div class="item" id="item4">  <img
+            src="k7.jpg"
+            alt=""
+          /></div>
+        <div class="item" id="item5">  <img
+            src="k8.avif"
+            alt=""
+          /></div>
+        <div class="item" id="item6"> <img
+            src="k9.webp"
+            alt=""
+          /></div>
+          <div class="item" id="item7">  <img
+            src="k10.jpg"
+            alt=""
+          /></div>
+          <div class="item" id="item9"> <img
+            src="k12.jpg"
+            alt=""
+          /></div>
+          <div class="item" id="item10"> <img
+            src="k13.webp"
+            alt=""
+          /></div>
+          <div class="item" id="item10"> <img
+            src="k11.jpeg"
+            alt=""
+          /></div>
+          <div class="item" id="item10"> <img
+            src="k14.jpg"
+            alt=""
+          /></div>
+          <div class="item" id="item10"> <img
+            src="k15.jpeg"
+            alt=""
+          /></div>
