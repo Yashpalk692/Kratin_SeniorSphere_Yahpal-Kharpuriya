@@ -86,7 +86,7 @@ A warm and inviting space showcasing upcoming events local groups, and inspiring
 ## Event Calendar 
 
 
-![Screenshot (2885)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/e4c1fe90-9af8-414a-84e4-8f20844857e9)
+![Screenshot (2889)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/a8456b0c-526e-4178-b1e8-181b22f37938)
 
 
 Discover local events fitness camps, nature initiatives, and social gatherings.
