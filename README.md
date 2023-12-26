@@ -1,7 +1,7 @@
 # Kratin_SeniorSphere_Yahpal-Kharpuriya
 SeniorSphere is a web platform uniting local seniors through shared interests. It hosts group chats and virtual events, fostering vibrant communities. By discussing local activities like fitness camps and nature initiatives, it empowers seniors to create support networks. Ideal for isolated seniors or newcomers, it ensures no one feels alone.
 
-## SeniorSphere: Socially Connected Health and Activity Tracker for Seniors
+# SeniorSphere: ## Socially Connected Health and Activity Enhancement
 
 SeniorSphere is a revolutionary web-based platform dedicated to enhancing the lives of seniors by fostering community, health, and shared interests. It seamlessly connects seniors within their locality with others who share similar interests and needs.
 
@@ -12,7 +12,6 @@ SeniorSphere is a revolutionary web-based platform dedicated to enhancing the li
 
 
 Welcome to SeniorSphere, a vibrant online community where seniors can connect, engage, and thrive. Our platform fosters a sense of belonging and encourages active lifestyles, empowering seniors to live healthier, happier, and more connected lives.
-
 
 
 ## Key Features:
