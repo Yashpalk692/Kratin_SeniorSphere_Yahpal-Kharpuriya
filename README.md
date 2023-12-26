@@ -104,7 +104,7 @@ Engage in real-time conversations with fellow seniors around shared interests
 ## Forums
 
 
-![k19](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/e38653a5-3ff7-4a87-961f-9b5822389f8d)
+![k21](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/70fb5b89-5773-4ce3-8696-944d55de7496)
 
 
 Discuss topics that matter to you exchange ideas, and seek advice. Discover local events fitness camps, nature initiatives, and social gatherings.
