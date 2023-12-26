@@ -3,6 +3,8 @@ SeniorSphere is a web platform uniting local seniors through shared interests. I
 
 ## Home Page
 
+![Screenshot (2865)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/6de10f8d-b374-40d0-99c1-049a169f515b)
+
 Welcome to SeniorSphere, a vibrant online community where seniors can connect, engage, and thrive. Our platform fosters a sense of belonging and encourages active lifestyles, empowering seniors to live healthier, happier, and more connected lives.
 
 ## SeniorSphere: Socially Connected Health and Activity Tracker for Seniors
