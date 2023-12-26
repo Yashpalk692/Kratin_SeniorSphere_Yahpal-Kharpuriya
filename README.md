@@ -11,7 +11,7 @@ Welcome to SeniorSphere, a vibrant online community where seniors can connect, e
 
 SeniorSphere is a revolutionary web-based platform dedicated to enhancing the lives of seniors by fostering community, health, and shared interests. It seamlessly connects seniors within their locality with others who share similar interests and needs.
 
-### Key Features:
+## Key Features:
 
 ### Local Connections
 Local Connections at Your Fingertips: Discover seniors in your neighborhood who share your interests and needs. Engage in group chats, forums, and virtual events to build meaningful relationships and combat loneliness.
@@ -35,24 +35,36 @@ The platform acts as a central discussion platform for various upcoming events s
 With a focus on promoting an active and engaged lifestyle, SeniorSphere encourages and facilitates various fitness and nature camps tailored for the elderly. These activities aim to create clubs and communities, forming a larger network of senior citizens who can support each other during challenging medical conditions and other difficulties.
 
 
-## Experience the Design:
+# Experience the Design:
 
-### Home Page 
+## Home Page 
+
 ![Screenshot (2865)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/6de10f8d-b374-40d0-99c1-049a169f515b)
 
 A warm and inviting space showcasing upcoming events local groups, and inspiring stories from community members.
 
-### Login/Signup
+## Login/Signup
+
 ![Screenshot (2878)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/780834ce-5c98-4878-b5c8-c022cdc8fd3f)
 
 ![Screenshot (2879)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/8a5afec0-be89-4d99-b7c7-dcc64b9a0205)
 
-3. Group Chats: [Image 2] Engage in real-time conversations with fellow seniors around shared interests
+## Activity Memories Collection 
 
-4. Forums: [Image 3] Discuss topics that matter to you exchange ideas, and seek advice.
-
-5. Activity Memories: 
 ![Screenshot (2869)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/d9a7aea3-284e-4923-a0f3-824d9e20de2d)
+
+## Registration/Booking of an event
+
+![Screenshot (2881)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/995d6f18-98ba-4068-9a10-c88f68c4a570)
+
+## About us
+
+![Screenshot (2883)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/e537ed06-6831-43fe-b9ab-8908436f9fa1)
+
+## Contact us
+
+![Screenshot (2877)](https://github.com/Yashpalk692/Kratin_SeniorSphere_Yahpal-Kharpuriya/assets/92738357/54995525-5260-4608-a9c9-7129ebc6c4dc)
+
 Set goals track your progress, and find motivation in your community.
 
 6. Event Calendar: [Image 5] Discover local events fitness camps, nature initiatives, and social gatherings.
